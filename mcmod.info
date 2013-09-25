@@ -1,0 +1,19 @@
+[
+{
+  "modid": "mod_Alpha",
+  "name": "Alpha",
+  "description": "No desc.",
+  "version": "2.1.3",
+  "credits": "victorkip09",
+  "logoFile": "/logo.png",
+  "mcversion": "1.6.2",
+  "url": "http://cavecraftnl.blogspot.nl/",
+  "updateUrl": "",
+  "authors": [ "minecraftl539" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
