@@ -11,7 +11,7 @@ public class TabMcl extends CreativeTabs {
     
     @Override
     public int getTabIconItemIndex() {
-        return Item.redstone.itemID;
+        return Item.eyeOfEnder.itemID;
         
     }
 }
